@@ -1,6 +1,6 @@
 #### For a live demo please visit [here](https://devboysal.github.io/The-Memory-Game-Concentration/)
 
-# Project 2 | Concentration
+# Concentration
 
 This project is a recreation of the game concentration.
 
